@@ -1,0 +1,5 @@
+name: 'debug log'
+type: module
+description: 'debug and return it in file'
+core: 8.x
+package: 'wb-universe'
